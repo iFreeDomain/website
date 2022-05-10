@@ -1,5 +1,5 @@
 <?php
-define('DB_SERVER', 'sql111.epizy.com');
+define('DB_SERVER', 'sql111.byetcluster.com');
 define('DB_USERNAME', 'epiz_31692075');
 define('DB_PASSWORD', '0yPEZvNzYuhd4F4');
 define('DB_NAME', 'epiz_31692075_server');
