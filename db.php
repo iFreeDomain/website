@@ -1,5 +1,5 @@
 <?php
-define('DB_SERVER', '	john.db.elephantsql.com');
+define('DB_SERVER', 'john.db.elephantsql.com');
 define('DB_USERNAME', 'ohbxveub');
 define('DB_PASSWORD', 'BMfnkjtIdgtG4_ITSHjo6W4_sdq3_MS7');
 define('DB_NAME', 'ohbxveub');
