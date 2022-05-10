@@ -1,8 +1,8 @@
 <?php
-define('DB_SERVER', 'john.db.elephantsql.com');
-define('DB_USERNAME', 'ohbxveub');
-define('DB_PASSWORD', 'BMfnkjtIdgtG4_ITSHjo6W4_sdq3_MS7');
-define('DB_NAME', 'ohbxveub');
+define('DB_SERVER', 'tiny.db.elephantsql.com');
+define('DB_USERNAME', 'meltmqnc');
+define('DB_PASSWORD', 'amIUpGHZBvLiVZu2XPeRSm-BqBkJo58J');
+define('DB_NAME', 'meltmqnc');
  
 /* Attempt to connect to MySQL database */
 try{
