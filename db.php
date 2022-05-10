@@ -1,8 +1,8 @@
 <?php
-define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'id18439140_root');
-define('DB_PASSWORD', '13Q?17x_9ixl8Utp');
-define('DB_NAME', 'id18439140_server	');
+define('DB_SERVER', 'sql111.epizy.com');
+define('DB_USERNAME', 'epiz_31692075');
+define('DB_PASSWORD', '0yPEZvNzYuhd4F4');
+define('DB_NAME', 'epiz_31692075_server');
  
 /* Attempt to connect to MySQL database */
 try{
