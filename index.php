@@ -13,13 +13,13 @@ include 'global.php';
 
 <div class="container mx-auto">
 <div class="jumbotron">
-<h1 class="text-light"><b>Project Vapor</b></h1>
-<p class="text-light">we are all about 2011, 2013 block gaem</p></div>
+<h1 class="text-light"><b>FallenNodes</b></h1>
+<p class="text-light">Free Hosting</p></div>
 <div class="row">
 <div class="col-sm-4">
-<h3>Completly Public And Open Source!</h3>
-<p>Vapor is a free to join and public revival without bullshit.</p>
-<p>In order for everyone to enjoy the game just do not do dumb stuff please</p></div>
+<h3>FallenNodes provides free hosting.</h3>
+<p>FallenNodes is here.</p>
+<p>Coming soon.</p></div>
 <iframe src="<?php echo YOUTUBETRAILERLINK;?>" width="560" height="315" frameborder="0"></iframe>
 </div>
 <style>
