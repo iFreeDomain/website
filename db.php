@@ -1,8 +1,8 @@
 <?php
-define('DB_SERVER', 'sql111.byetcluster.com');
-define('DB_USERNAME', 'epiz_31692075');
-define('DB_PASSWORD', '0yPEZvNzYuhd4F4');
-define('DB_NAME', 'epiz_31692075_server');
+define('DB_SERVER', 'sql6.freesqldatabase.com');
+define('DB_USERNAME', 'sql6491278');
+define('DB_PASSWORD', '6IebBW9dyx');
+define('DB_NAME', 'sql6491278');
  
 /* Attempt to connect to MySQL database */
 try{
