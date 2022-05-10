@@ -7,12 +7,12 @@ require_once "db.php";
 <html lang="en">
     <head>
   <meta charset="UTF-8">
-  <meta name="description" content="we are all about 2011, 2013 block gaem">
-  <meta name="keywords" content="Roblox, Old Roblox, Old Roblox Revival, Novetus">
-  <meta name="author" content="Project Vapor">
+  <meta name="description" content="Ipv6 VPS">
+  <meta name="keywords" content="free vps, vps, ipv6 vps, vps free trial">
+  <meta name="author" content="FallenNodes">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<title>Project Vapor</title>
+<title>FallenNodes</title>
 <link rel="icon" type="image/png" href="<?php echo SMALLLOGOPATH;?>" />
 
 <style>
